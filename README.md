@@ -1,6 +1,6 @@
 # QRCode-Generator
 
-Project Stack
-Backend (Python)
-GUI (Eel)
-Frontend (Javascript, HTML, CSS)
+**Project Stack** 
+- Backend (Python)
+- GUI (Eel)
+- Frontend (Javascript, HTML, CSS)
